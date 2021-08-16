@@ -6,9 +6,15 @@ Our main objective is to detect, classify and analyse toxicity that prevails amo
 
 ## METHODOLOGY/TECHNIQUES PLANNED 
 We are collecting and studying the various datasets online and combining useful data to get our own input dataset. Our main objective is to analyse various comments from the datasets provided and detect all the toxic comments and after detecting them we are classifying them based on the type of toxicity. 
+
 The types of toxicity are:
+
 • Toxic (simply)
+
 • severe_toxic (severely using hate speech)
+
 • obscene (inappropriate content and messages)
+
 • threat (Intend to hurt or harm) 
+
 • insult (derogatory opinion on somebody or some
