@@ -25,3 +25,8 @@ The types of toxicity are:
 • threat (Intend to hurt or harm) 
 
 • insult (derogatory opinion on somebody or some
+
+## Dataset:
+The dataset was chosen from the online coding challenge from kaggle provided by Jigsaw.
+
+Link - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
