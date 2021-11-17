@@ -1,6 +1,11 @@
 # Toxicity-On-Social-Media
 Detect, Analyze and classify Toxic comments on online platform 
 
+## Members:
+Theninpan R
+Anagha Sriram
+Loura Shiny
+
 ## OBJECTIVES:
 Our main objective is to detect, classify and analyse toxicity that prevails among social media platform these days. A large proportion of online comments present on public domains are usually constructive, however a significant proportion are toxic in nature. Hurting other people, especially when it was uncalled for is one of the cruellest forms of sin done by mankind. We would like to classify the good from the bad, then classify the stages of toxicity. We believe that this will minimizes the type of unintended bias with respect to mentions of identities and reduce toxicity on social media.
 
