@@ -3,7 +3,9 @@ Detect, Analyze and classify Toxic comments on online platform
 
 ## Members:
 Theninpan R
+
 Anagha Sriram
+
 Loura Shiny
 
 ## OBJECTIVES:
